@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Lib_Cm",
+    "type": "magento-module",
+    "license": "New-BSD",
+    "homepage": "",
+    "description": "Redis adapter for Zend_Cache",
+    "authors": [
+    {
+        "name": "Colin Mollenhour",
+        "email": "colin@mollenhour.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
